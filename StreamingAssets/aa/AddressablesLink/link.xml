@@ -35,7 +35,7 @@
     <type fullname="IIM.Skill.SkillImperialKnight2" preserve="nothing" serialized="true" />
     <type fullname="IIM.Skill.SkillImperialKnight3" preserve="nothing" serialized="true" />
     <type fullname="IIM.Skill.SkillImperialKnightBaseAttack" preserve="nothing" serialized="true" />
-    <type fullname="IIM.Skill.SkillImperialKnightGuard" preserve="nothing" serialized="true" />
+    <type fullname="IIM.Skill.SkillImperialKnightDash" preserve="nothing" serialized="true" />
     <type fullname="IIM.Skill.SkillInfighter1" preserve="nothing" serialized="true" />
     <type fullname="IIM.Skill.SkillInfighter2" preserve="nothing" serialized="true" />
     <type fullname="IIM.Skill.SkillInfighter3" preserve="nothing" serialized="true" />
@@ -148,6 +148,7 @@
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
   </assembly>
   <assembly fullname="UnityUIExtensions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
